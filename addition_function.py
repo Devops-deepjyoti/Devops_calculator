@@ -1,5 +1,0 @@
-x = input("give me the number you want to multiply=")
-y = input("give me the second number you want to multiply=")
-y = int(y)
-x = int(x)
-print (y * x)
